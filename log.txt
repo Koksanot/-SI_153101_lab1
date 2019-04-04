@@ -1,0 +1,12 @@
+$ git checkout log
+Switched to branch 'log'
+
+Student@lab215-ws37 MINGW64 ~/Downloads/SI_153101_lab1 (log)
+$ git log
+commit ebfe6e606a74eb8dcf13cc9fc01e78e39f930c89 (HEAD -> log, 
+origin/master, master)
+Author: student <student@labstudenti.finki.ukim.mk>
+Date:   Thu Apr 4 10:32:27 2019 +0200
+
+    Initial commit
+
